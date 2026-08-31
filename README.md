@@ -57,5 +57,10 @@ These problems are deliberately open-ended. You have the flexibility to design t
 ## Lab Assessment
 
 1. As you wrote this Python code, which concept felt the most unfamiliar?
+Part 4 felt the most unfamiliar as I have not had a lot of experience using sets and the methods that come with it.
+
 2. Did you encounter any technical issues during this lab?
+None that I know of, besides not being used to making a fork.
+
 3. Looking back at Part 2, how did you logically verify that your `while` loop would not result in an infinite loop? 
+Logically the value of n will always end up being an even number that will be divisible in the next iteration as the else condition makes sure of that.
